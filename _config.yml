@@ -103,5 +103,6 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: heroku
-  repo: https://news-blog-g.herokuapp.com/
-  message: [message]
+  repo: https://github.com/liugoldent/newsBlog.git
+  url: https://news-blog-g.herokuapp.com/
+  root: /
