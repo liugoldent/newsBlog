@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: NewsBlog
+title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: Golden
+author: John Doe
 language: en
 timezone: ''
 
@@ -102,7 +102,4 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: heroku
-  repo: https://github.com/liugoldent/newsBlog.git
-  url: https://news-blog-g.herokuapp.com/
-  root: /
+  type: ''
