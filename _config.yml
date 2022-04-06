@@ -102,4 +102,5 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: heroku
+  repo: https://git.heroku.com/news-blog-g.git
