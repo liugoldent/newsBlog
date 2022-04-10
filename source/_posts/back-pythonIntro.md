@@ -25,8 +25,5 @@ tags:
 * 記住：如果是python3，則要使用`pip3`指令來操作安裝
 ex：`pip3 install Flask`
 
-## Flask 框架
-[Python Flask 入門指南 : 輕量級網頁框架教學](https://devs.tw/post/448)
-
 ## 好文共享
 [pip指令大全](https://www.maxlist.xyz/2019/07/13/pip-install-python/)
