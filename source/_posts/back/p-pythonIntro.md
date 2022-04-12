@@ -10,7 +10,7 @@ tags:
 1. exit() > 離開python環境
 
 ## 關於Pip
-它是python的套件管理系統，如果是JS的用戶，可想像成是Npm的概念
+它是python的套件管理系統，如果是JS的用戶，可想像成是Npm的概念 
 ### Mac 安裝pip
 1. 安裝
 * `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
