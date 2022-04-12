@@ -1,5 +1,5 @@
 ---
-title: Flask 超基本入門
+title: B - Flask 超基本入門
 date: {{ date }}
 tags: 
     - Python
