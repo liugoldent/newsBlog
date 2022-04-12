@@ -1,0 +1,3 @@
+[submodule "themes/try"]
+	path = themes/try
+	url = https://github.com/hexojs/hexo.git
