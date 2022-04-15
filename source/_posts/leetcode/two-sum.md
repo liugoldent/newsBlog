@@ -1,5 +1,5 @@
 ---
-title: L - Two Sum
+title: L - 2. Two Sum
 date: {{ date }}
 tags: 
     - LeetCode
