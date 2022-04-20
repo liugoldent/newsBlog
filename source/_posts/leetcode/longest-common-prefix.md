@@ -8,7 +8,7 @@ tags:
     - Javascript
     - Python
 ---
-# Palindrome Number
+# Longest Common Prefix
 ## Javascript 解
 思路：雖然不是最佳解，但看大部分解法都是
 1. 先取出第一個元素

@@ -8,7 +8,7 @@ tags:
     - Javascript
     - Python
 ---
-# Two Sum
+# Valid Parentheses
 ## Javascript 解
 思路：
 1. 先將反向括號設定成一個物件

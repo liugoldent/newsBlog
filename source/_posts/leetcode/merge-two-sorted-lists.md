@@ -1,14 +1,14 @@
 ---
-title: L - 9. Palindrome Number
+title: L - 21. Merge Two Sorted Lists
 date: {{ date }}
 tags: 
     - LeetCode
     - Easy
-    - Palindrome Number
+    - Merge Two Sorted Lists
     - Javascript
     - Python
 ---
-# Palindrome Number
+# Merge Two Sorted Lists
 ## Javascript 解
 思路：
 1. 首先要了解linked list

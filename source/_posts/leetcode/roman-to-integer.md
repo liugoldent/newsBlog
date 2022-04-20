@@ -8,7 +8,7 @@ tags:
     - Javascript
     - Python
 ---
-# Palindrome Number
+# Roman to Integer
 ## Javascript 解
 思路：製作出一個for loop
 1. 若左邊的數字 >= 右邊的數字則將**加上**此index數字
