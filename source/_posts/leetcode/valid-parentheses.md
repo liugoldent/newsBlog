@@ -1,6 +1,6 @@
 ---
 title: L - 20. Valid Parentheses
-date: {{ date }}
+date: 2022/04/20
 tags: 
     - LeetCode
     - Easy

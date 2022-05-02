@@ -1,6 +1,6 @@
 ---
 title: L - 21. Merge Two Sorted Lists
-date: {{ date }}
+date: 2022/04/20
 tags: 
     - LeetCode
     - Easy

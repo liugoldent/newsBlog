@@ -1,6 +1,6 @@
 ---
 title: L - 2. Two Sum
-date: {{ date }}
+date: 2022/04/15
 tags: 
     - LeetCode
     - Easy

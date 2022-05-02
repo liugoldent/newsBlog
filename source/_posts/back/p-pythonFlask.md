@@ -1,6 +1,6 @@
 ---
 title: B - Flask 超基本入門
-date: {{ date }}
+date: 2022/04/15
 tags: 
     - Python
     - Flask

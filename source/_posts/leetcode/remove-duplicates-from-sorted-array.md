@@ -1,6 +1,6 @@
 ---
 title: L - 26 Remove Duplicates from Sorted Array
-date: {{ date }}
+date: 2022/05/02
 tags: 
     - LeetCode
     - Easy

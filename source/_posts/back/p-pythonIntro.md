@@ -1,6 +1,6 @@
 ---
 title: B - Python 變數 & 語法
-date: {{ date }}
+date: 2022/04/15
 tags: 
     - Python
 ---

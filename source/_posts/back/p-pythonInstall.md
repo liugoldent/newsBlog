@@ -1,6 +1,6 @@
 ---
 title: B - Python 超基本入門 - 安裝
-date: {{ date }}
+date: 2022/04/15
 tags: 
     - Python
     - Flask

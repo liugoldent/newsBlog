@@ -1,6 +1,6 @@
 ---
 title: L - 14. Longest Common Prefix
-date: {{ date }}
+date: 2022/04/16
 tags: 
     - LeetCode
     - Easy

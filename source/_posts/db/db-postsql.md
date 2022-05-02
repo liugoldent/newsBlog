@@ -1,6 +1,6 @@
 ---
 title: D - Nodejs & Heroku PostgreSQL 設定
-date: {{ date }}
+date: 2022/04/17
 tags: 
     - NodeJs
     - Express

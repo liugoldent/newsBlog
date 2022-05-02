@@ -1,6 +1,6 @@
 ---
 title: L - 9. Palindrome Number
-date: {{ date }}
+date: 2022/04/16
 tags: 
     - LeetCode
     - Easy

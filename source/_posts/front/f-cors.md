@@ -1,6 +1,6 @@
 ---
 title: F - Vue3 解決跨域問題
-date: {{ date }}
+date: 2022/04/17
 tags: 
     - Vue3
     - Express
