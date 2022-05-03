@@ -1,5 +1,7 @@
 const rename = function(str){
-    return str.replace(/ /g,'-')
+    str = str.toLowerCase()
+    str = str.replace(/ /g,'-')
+    return str
 }
-const result = rename('remove duplicates from sorted array')
+const result = rename('Implement Queue using Stacks')
 console.log(result)
