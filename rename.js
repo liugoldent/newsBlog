@@ -3,5 +3,5 @@ const rename = function(str){
     str = str.replace(/ /g,'-')
     return str
 }
-const result = rename('Implement Queue using Stacks')
+const result = rename('Sort an Array')
 console.log(result)
