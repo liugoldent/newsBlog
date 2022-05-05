@@ -3,5 +3,5 @@ const rename = function(str){
     str = str.replace(/ /g,'-')
     return str
 }
-const result = rename('Sort an Array')
+const result = rename('Input Array Is Sorted')
 console.log(result)

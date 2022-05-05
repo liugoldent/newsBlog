@@ -1,6 +1,6 @@
 ---
 title: L - 167. Two Sum II - Input Array Is Sorted
-date: 2022/05/03
+date: 2022/05/05
 tags: 
     - LeetCode
     - Medium
