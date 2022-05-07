@@ -3,5 +3,5 @@ const rename = function(str){
     str = str.replace(/ /g,'-')
     return str
 }
-const result = rename('Input Array Is Sorted')
+const result = rename('Swap Nodes in Pairs')
 console.log(result)
