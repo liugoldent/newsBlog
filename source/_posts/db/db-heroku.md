@@ -1,0 +1,18 @@
+---
+title: D - Nodejs & Heroku 關鍵常用字
+date: 2022/05/09
+tags: 
+    - NodeJs
+    - Express
+    - Heroku
+---
+# 在Heroku
+## 常用關鍵字
+```JSON
+{
+"heroku logs": "--tail 在終端機開啟heroku的log",
+"heroku restart" :"重啟遠端heroku",
+"heroku buildpack:add jontewks/puppeteer" :"在遠端加上一個buildpack",
+"git push heroku master" :"push上heroku的遠端，來更新",
+}
+```
