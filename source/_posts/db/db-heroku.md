@@ -14,5 +14,6 @@ tags:
 "heroku restart" :"重啟遠端heroku",
 "heroku buildpack:add jontewks/puppeteer" :"在遠端加上一個buildpack",
 "git push heroku master" :"push上heroku的遠端，來更新",
+"heroku git:remote -a app-name"： "設定遠端的heroku要認哪個專案"
 }
 ```
