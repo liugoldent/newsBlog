@@ -1,22 +1,12 @@
 /**
- * @param {string} s
+ * @param {string} haystack
+ * @param {string} needle
  * @return {number}
  */
-/**
- * @param {number[]} nums
- * @param {number} val
- * @return {number}
- */
- var removeElement = function(nums, val) {
-  let count = 0
-  for(let i = 0 ,len = nums.length ; i < len ; i++){
-      if(nums[i] !== val){
-          nums[count] = nums[i]
-          count++
-      }
-  }
-  return count++
+ var strStr = function(haystack, needle) {
+  return haystack.indexOf(needle)
 };
 
-const a = removeElement([3,1,4,3], 2)
+
+const a = strStr('aaaaa', 'bba')
 console.log(a)
