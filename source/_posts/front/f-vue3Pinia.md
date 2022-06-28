@@ -155,3 +155,4 @@ const handleClick = () => {
 
 ## 文章分享
 [上手 Vue 新的状态管理 Pinia，一篇文章就够了](https://segmentfault.com/a/1190000041554023)
+[Pinia - Vuex 的後繼者](https://johnnywang1994.github.io/book/articles/js/pinia-intro.html)
