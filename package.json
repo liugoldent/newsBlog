@@ -6,7 +6,8 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "dev": "hexo server"
+    "dev": "hexo server",
+    "debug": "node leetcode.js"
   },
   "hexo": {
     "version": "6.1.0"
