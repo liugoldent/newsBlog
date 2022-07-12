@@ -1,10 +1,18 @@
-function hasWhiteSpace(s) {
-  s = s.trim()
-  let resultArr = s.split(' ')
-  let resultFinalIndex = resultArr.length -1
-  return resultArr[resultFinalIndex].length
-}
+/**
+ * @param {number[]} digits
+ * @return {number[]}
+ */
+ var plusOne = function(digits) {
+  for(let i = digits.length - 1 ; i >= 0 ; i--){
+    let lastDigit = digits[i];
+    if (lastDigit < 9) {
+      digits[i] += 1;
+      return digits;
+    }
+    digits[i] = 0;
+  }
+  return [1, ...digits]
+};
+console.log(plusOne([9]))
 
-const test = "luffy is still joyboy"
-const a = hasWhiteSpace(test)
-console.log(a)
+
