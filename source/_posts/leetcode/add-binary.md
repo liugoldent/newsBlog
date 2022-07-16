@@ -16,6 +16,7 @@ tags:
 1. 記得carry值：是用 /2 去取得
 2. 真正的res：是用 %2 去取得
 3. 因為有長短問題，所以val 的那行要使用 || 0
+
 ```javascript
 /**
  * @param {string} a
@@ -43,6 +44,7 @@ tags:
 ```
 
 ### 解2. 轉型
+
 ```javascript
 /**
  * @param {string} a
