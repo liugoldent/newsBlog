@@ -36,3 +36,26 @@ tags:
 };
 ```
 
+## Python 解
+在這邊有比較特別的「reversed」語法
+是我在js中比較沒有用到的
+如果不想寫reversed也可以用range的方式寫起來
+
+```python
+def plusOne(digits):
+    """
+    :type digits: List[int]
+    :rtype: List[int]
+    """
+    # range(len(digits) -1 , -1, -1)
+    for i in reversed(range(len(digits))):
+        lastDigits = digits[i]
+        if lastDigits + 1 <= 9:
+            digits[i] = digits[i] + 1
+            return digits
+        else:
+            digits[i] = 0
+    digits.insert(0, 1)
+    return digits
+```
+
