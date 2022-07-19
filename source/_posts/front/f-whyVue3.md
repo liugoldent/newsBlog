@@ -3,6 +3,7 @@ title: F - Why Vue3 and think more
 date: 2022/06/27
 tags: 
     - Vue3
+    - Test
 ---
 # Vue3 近一步思考
 ## 1. use Proxy
