@@ -3,6 +3,7 @@ title: F - Code Base
 date: 2022/07/12
 tags: 
     - javascript
+    - Test
 ---
 ## SOLID
 * SRP -> 單一職責原則：讓一個類去做一件事，如果有要做更多事，請解構。降低單一功能或類別被「改變」所影響的機會。
@@ -30,6 +31,8 @@ tags:
 * 數據輕量化
 * 沒有同源限制
 * 協議是ws，加密是wss
+
+[JavaScript | WebSocket 讓前後端沒有距離](https://medium.com/enjoy-life-enjoy-coding/javascript-websocket-%E8%AE%93%E5%89%8D%E5%BE%8C%E7%AB%AF%E6%B2%92%E6%9C%89%E8%B7%9D%E9%9B%A2-34536c333e1b)
 
 
 
